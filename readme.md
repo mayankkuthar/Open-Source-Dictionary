@@ -4,7 +4,7 @@ Open Source Dictionary is a open source website which is a dicitonary that will 
 <br>
 
 <p align="center">
-  <img src="https://gwoc.girlscript.tech/assets/home.png" alt="GWOC"/>
+  <img src="https://gwoc.girlscript.tech/assets/home-design.png" alt="GWOC"/>
 </p>
 
 ## Technologies Used :
